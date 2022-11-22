@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2p2lwB+t2xUpZmrRU+Fym1GnlvvGRixGDVYhcsXLGb83rAM+ZWWiRBifcbDgEROB09t6pXWSHWjLcjFXLDBjQ==",
+  "dgSpecHash": "WlQAOr77+ZshrLSdVo1aZQzQU+zS2JAGyaGO3OBLFEQgfM5noXCR+U5sPLVkIA0Du8HUwpAQSEFDO/KzuUZBKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosco\\OneDrive\\Escritorio\\Programacion4\\ScrollViewGrupo4\\ScrollViewGrupo4\\ScrollViewGrupo4.csproj",
+  "projectFilePath": "C:\\Users\\rosco\\Grupo4\\ScrollViewGrupo4\\ScrollViewGrupo4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosco\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\rosco\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
